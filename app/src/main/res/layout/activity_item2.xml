@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="10dp"
+    android:gravity="center"
+    android:id="@+id/containerItem"
+    tools:context="com.manualdocondutor.manualdocondutor.ItemActivity2">
+
+
+
+    <ImageView
+        android:id="@+id/imgContact"
+        android:layout_width="110dp"
+        android:layout_height="100dp"
+        android:src="@drawable/contato"
+        android:padding="10dp"
+        android:background="@drawable/radius"
+        android:layout_marginTop="80dp"
+
+        />
+
+
+
+
+</LinearLayout>
