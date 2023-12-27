@@ -6,4 +6,13 @@ Informações sobre cursos especializados.</h3>
 <img width="700" height="480" src="assets/completo.png">
 </p>
 
+# 🛠 Tecnologias Utilizadas
+
+- RecyclerView
+
+- ViewBinding
+
+- Room Database (SQLite)
+
+- AlertDialog
 
