@@ -15,7 +15,9 @@ Informações sobre cursos especializados.</h4>
 
 - ViewBinding
 
-- Room Database (SQLite)
-
 - AlertDialog
+
+- Construction of screens with XML
+
+- Communication between activities
 
